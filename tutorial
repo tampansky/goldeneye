@@ -3,10 +3,9 @@ cara install
 -pkg update && pkg upgrade
 -pkg install python
 -pkg install python2
-pip 
 -pkg install git
--git clone https://github.com/tampansky/shell
+-git clone https://github.com/tampansky/goldeneye
 -ls
--cd shell
-- sh spam.sh
+-cd goldeneye
+- python2 goldeneye.py
 gunakan dengan bijak seperti albert enstein
